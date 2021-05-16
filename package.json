@@ -1,0 +1,14 @@
+{
+  "name": "daceitgame",
+  "version": "1.0.0",
+  "description": "Website for deceit you can verify your status of the game with your ID",
+  "main": "index.html ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JEFF (Douglas)",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
