@@ -8,7 +8,6 @@
 
 > Website for deceit you can verify your status of the game with your ID
 
-### ✨ [Demo](deceit-website.netlify.app)
 
 ## Install
 
