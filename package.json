@@ -9,6 +9,7 @@
   "author": "JEFF (Douglas)",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.0",
+    "readme-md-generator": "^1.0.0"
   }
 }
