@@ -26,7 +26,7 @@ npm run test
 
 👤 **JEFF (Douglas)**
 
-* Website: https://douglasportifolio.cf/
+* Website: http://douglasportifolio.cf/
 * Github: [@jeffbeu](https://github.com/jeffbeu)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/douglas-oliveira-305961160\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/douglas-oliveira-305961160\/)
 
