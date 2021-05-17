@@ -19,7 +19,7 @@ npm install
 ## Run tests
 
 ```sh
-npm run test
+just open index.html live server
 ```
 
 ## Author
